@@ -1,0 +1,3 @@
+Omadbek => Navbar
+Abdulaziz => Footer
+Mirabdulloh => Main
